@@ -1,0 +1,3 @@
+[submodule "submodule.webapp"]
+	path = submodule.webapp
+	url = git@github.com:steve-westwood/submodule.webapp.git
