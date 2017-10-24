@@ -1,3 +1,6 @@
 [submodule "submodule.webapp"]
 	path = submodule.webapp
 	url = git@github.com:steve-westwood/submodule.webapp.git
+[submodule "submodule.api"]
+	path = submodule.api
+	url = git@github.com:steve-westwood/submodule.api.git
